@@ -1,2 +1,3 @@
 # Projet-EPITA-S2
-jeux vidéo
+
+Jeux vidéo à réaliser lors du S2 (C#).
